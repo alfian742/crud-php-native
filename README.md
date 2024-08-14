@@ -4,25 +4,25 @@ Selamat datang di proyek **CRUD PHP Native**! 🎉 Ini adalah aplikasi CRUD (Cre
 
 ## 🖥️ Screenshot
 
-1. Beranda:
+1. **Beranda:**
 ![Beranda](uploads/screenshot/Screenshot%20001.png)
 
-2. Login:
+2. **Login:**
 ![Login](uploads/screenshot/Screenshot%20001.png)
 
-3. Data:
+3. **Data:**
 ![Data](uploads/screenshot/Screenshot%20003.png)
 
-4. Detail:
+4. **Detail:**
 ![Detail](uploads/screenshot/Screenshot%20004.png)
 
-5. Tambah:
+5. **Tambah:**
 ![Tambah](uploads/screenshot/Screenshot%20005.png)
 
-6. Ubah:
+6. **Ubah:**
 ![Ubah](uploads/screenshot/Screenshot%20006.png)
 
-7. Hapus:
+7. **Hapus:**
 ![Hapus](uploads/screenshot/Screenshot%20007.png)
 
 ## 🔑 Login
