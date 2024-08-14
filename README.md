@@ -76,3 +76,7 @@ Gunakan kredensial berikut untuk login ke aplikasi:
 
 3. **Fitur DataTables**:
     - Gunakan kolom pencarian dan fitur pengurutan untuk mempermudah penelusuran data.
+
+---
+
+Terima kasih telah mengunjungi repositori ini! Jika ada pertanyaan atau saran, jangan ragu untuk menghubungi saya.
