@@ -8,7 +8,7 @@ Selamat datang di proyek **CRUD PHP Native**! 🎉 Ini adalah aplikasi CRUD (Cre
 ![Beranda](uploads/screenshot/Screenshot%20001.png)
 
 2. **Login:**
-![Login](uploads/screenshot/Screenshot%20001.png)
+![Login](uploads/screenshot/Screenshot%20002.png)
 
 3. **Data:**
 ![Data](uploads/screenshot/Screenshot%20003.png)
