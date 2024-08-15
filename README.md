@@ -1,6 +1,6 @@
 # CRUD PHP Native
 
-Selamat datang di proyek **CRUD PHP Native**! 🎉 Ini adalah aplikasi CRUD (Create, Read, Update, Delete) yang dilengkapi dengan fitur login sederhana, dibangun menggunakan PHP Native. Proyek ini merupakan tugas kuliah dengan studi kasus **Data Kependudukan** yang memanfaatkan **Bootstrap 5** untuk styling dan **DataTables** untuk menampilkan data tabel dengan fitur pencarian dan pengurutan.
+Selamat datang di proyek **CRUD PHP Native**! 🎉 Ini adalah aplikasi CRUD (Create, Read, Update, Delete) yang dilengkapi dengan fitur login sederhana, dibangun menggunakan PHP Native. Proyek ini merupakan tugas kuliah Pemrograman Web dengan studi kasus **Data Kependudukan** yang memanfaatkan **Bootstrap 5** untuk styling dan **DataTables** untuk menampilkan data tabel dengan fitur pencarian dan pengurutan.
 
 ## 🖥️ Screenshot
 
