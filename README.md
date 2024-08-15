@@ -29,7 +29,7 @@ Selamat datang di proyek **CRUD PHP Native**! 🎉 Ini adalah aplikasi CRUD (Cre
 
 Gunakan kredensial berikut untuk login ke aplikasi:
 
-- **Username**: `admin@gmail.com`
+- **Email**: `admin@gmail.com`
 - **Password**: `admin`
 
 ## 🚀 Teknologi yang Digunakan
